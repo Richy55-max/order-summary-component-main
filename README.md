@@ -1,1 +1,1 @@
-# order-summary-component-main
+# Order summary using flexbox CSS
